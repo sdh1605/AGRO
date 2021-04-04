@@ -1,2 +1,2 @@
 # AGRO
-Bedienungshinweise für das Angelas Great Robotic Observatory (AGRO)
+Bedienungshinweise für das Angela Great Robotic Observatory (AGRO)
