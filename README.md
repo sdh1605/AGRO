@@ -8,7 +8,7 @@ Die Steuerungssoftware KStars/Ekos läuft auf dem Raspberry Pi, der auf dem AGRO
 1. KStars starten
 2. Ekos mit ctrl+k öffnen
 3. Profil "AGRO UPB" starten
-4. Unter "Pegasus UPB" -> Power die Montierung, die CCD Kamera und das Filterrad einschalten
+4. Unter "Pegasus UPB" -> Power die Montierung (Port 2), die CCD Kamera (Port 3) und das Filterrad (Port 4) einschalten
 5. Profil "AGRO UPB" disconnecten und auflegen.
 
 Nun ist die Hardware (Montierung, CCD, Filterrad) eingeschaltet und das Profil zur Steuerung aller Hardwarekomponenten kann gestartet werden:
